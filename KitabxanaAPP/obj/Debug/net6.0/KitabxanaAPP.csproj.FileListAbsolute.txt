@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\bin\Debug\net6.0\KitabxanaAPP.exe
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\bin\Debug\net6.0\KitabxanaAPP.deps.json
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\bin\Debug\net6.0\KitabxanaAPP.runtimeconfig.json
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\bin\Debug\net6.0\KitabxanaAPP.dll
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\bin\Debug\net6.0\KitabxanaAPP.pdb
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.AssemblyInfo.cs
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.dll
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\refint\KitabxanaAPP.dll
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.pdb
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\KitabxanaAPP.genruntimeconfig.cache
+C:\Users\User\Desktop\KitabxanaApp\KitabxanaAppSolution\KitabxanaAPP\obj\Debug\net6.0\ref\KitabxanaAPP.dll
